@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/11l13n/prgTech-kr4/static/css/main.c3cf1b76.css",
+    "main.js": "/11l13n/prgTech-kr4/static/js/main.b165cf87.js",
+    "static/js/453.5b3e88d4.chunk.js": "/11l13n/prgTech-kr4/static/js/453.5b3e88d4.chunk.js",
+    "index.html": "/11l13n/prgTech-kr4/index.html",
+    "main.c3cf1b76.css.map": "/11l13n/prgTech-kr4/static/css/main.c3cf1b76.css.map",
+    "main.b165cf87.js.map": "/11l13n/prgTech-kr4/static/js/main.b165cf87.js.map",
+    "453.5b3e88d4.chunk.js.map": "/11l13n/prgTech-kr4/static/js/453.5b3e88d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3cf1b76.css",
+    "static/js/main.b165cf87.js"
+  ]
+}
